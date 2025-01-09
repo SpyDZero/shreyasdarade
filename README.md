@@ -2,10 +2,9 @@
 
 #### Technical Skills: Python, SQL, Power BI, Excel, Machine Learning
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., Information Systems	| Carnegie Mellon University (_August 2024 - Present_)	 			        		
+- B.E., Information Technology | Mumbai University (_June 2022_)
 
 ## Work Experience
 **Senior Analyst @ GEP (_Sept 2022 - Aug 2024_)**
