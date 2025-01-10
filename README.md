@@ -52,7 +52,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 
-# Shreyas Darade
+# Data Science and Product Enthusiast
 
 ## Technical Skills
 Python, SQL, Power BI, Excel, Machine Learning, Tableau, Java, Git, Figma
@@ -62,22 +62,36 @@ Python, SQL, Power BI, Excel, Machine Learning, Tableau, Java, Git, Figma
 ## Education
 
 ### M.S., Information Systems Management - Business Intelligence and Data Analytics  
-**Carnegie Mellon University**  
-(August 2024 - December 2025)  
+**Carnegie Mellon University**  (August 2024 - December 2025)  
 - **GPA:** 3.85  
 - **Coursework:** Product Management Essentials, Data Focused Python, Machine Learning, Statistics, Database  
 
 ### B.Tech., Information Technology  
-**Mumbai University**  
-(August 2018 - June 2022)  
+**Mumbai University**  (August 2018 - June 2022)  
 - **Coursework:** Data Analytics, Database Management, Soft Computing, Entrepreneurship Lab, UX Design  
+
+---
+
+## Key Coursework at CMU
+- Intro to Machine Learning  
+- Machine Learning for Problem Solving  
+- Data Science and Big Data  
+- Data Focused Python  
+- Product Management Essentials
+- Econometrics
+- Intermediate Database Management  
+
 
 ---
 
 ## Work Experience
 
-### Senior Analyst  
-**GEP**  
+### Graduate Teaching Assistant **CMU**
+(October 2024 - December 2024)
+- Mentoring graduate students to create impactful business documents
+- Course Name : Business Writing
+
+### Senior Analyst  **GEP**  
 (September 2022 - August 2024)  
 - Consulted for a Fortune 100 US client on a procurement transformation project, providing analytics insights and reporting 25+ metrics/KPIs to 220+ members for measuring engagement progress.  
 - Managed analytics initiatives to inform business strategy, optimizing processes and testing impactful cost-saving measures in the client's indirect supply chain domain.  
