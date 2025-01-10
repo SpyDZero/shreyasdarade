@@ -62,8 +62,8 @@ Python, SQL, Power BI, Excel, Machine Learning, Tableau, Java, Git, Figma
 ## Education
 
 ### **Masters Degree**, Information Systems Management  
-Business Intelligence and Data Analytics  
-###**Carnegie Mellon University**  (August 2024 - December 2025)  
+### Business Intelligence and Data Analytics  
+### **Carnegie Mellon University**  (August 2024 - December 2025)  
 - **GPA:** 3.85  
 - **Dean's List:** Fall 2024  
 
