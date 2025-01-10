@@ -61,13 +61,14 @@ Python, SQL, Power BI, Excel, Machine Learning, Tableau, Java, Git, Figma
 
 ## Education
 
-### M.S., Information Systems Management - Business Intelligence and Data Analytics  
-**Carnegie Mellon University**  (August 2024 - December 2025)  
+### **Masters Degree**, Information Systems Management  
+Business Intelligence and Data Analytics  
+###**Carnegie Mellon University**  (August 2024 - December 2025)  
 - **GPA:** 3.85  
-- **Coursework:** Product Management Essentials, Data Focused Python, Machine Learning, Statistics, Database  
+- **Dean's List:** Fall 2024  
 
 ### B.Tech., Information Technology  
-**Mumbai University**  (August 2018 - June 2022)  
+###**Mumbai University**  (August 2018 - June 2022)  
 - **Coursework:** Data Analytics, Database Management, Soft Computing, Entrepreneurship Lab, UX Design  
 
 ---
